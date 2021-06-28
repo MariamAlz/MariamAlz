@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MariamAlz
-- 👀 I’m interested in OSS & NLP
 - 📫 You can reach out to me via mariam.mk.alzaabi@gmail.com
 
 <!---
