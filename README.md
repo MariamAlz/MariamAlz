@@ -1,8 +1,15 @@
-<details>
-    <summary><b>✨About Me</b></summary><br/>
-    - 👋 Hi, I’m @MariamAlz<br/>
-    - 📫 You can reach out to me via mariam.mk.alzaabi@gmail.com
-</details>
+# Hi 👋
+
+#### 🙋‍♀️ I'm Mariam Alzaabi, a Computer Engineer 💻 from the UAE.
+#### 👩‍💻 Currently, working as a Graduate Student / Teaching Assistant.
+#### 🏫 Studying MSc. Computer Science at Khalifa University.
+#### 👩‍🎓 Graduated with a BSc. in Computer Engineering.
+#### 🤔 Interested in Data Science. Recent focus on NLP and Computer Vision.
+#### 🌱 Learning Python, Math & Philosophy.
+#### 📧 Send me an [email](mailto:mariam.mk.alzaabi@gmail.com) if you want to contact me!
+
+## Software Tools 🛠️
+
 <details>
     <summary><b>☁ Cloud</b></summary><br/>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -17,12 +24,6 @@
     <summary><b>🖍 Design</b></summary><br/>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-</details>
-<details>
-    <summary><b>📚 Education</b></summary><br/>
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
-    <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" />
 </details>
 <details>
     <summary><b>🚀 Frameworks & Library</b></summary><br/>
@@ -89,19 +90,35 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </details>
 <details>
-    <summary><b>💻 Terminal</b></summary><br/>
+    <summary><b>🖥️ Terminal</b></summary><br/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </details>
-<details>
-    <summary><b>👨 Social</b></summary><br/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</details>
+
+## Follow me 🌐
+<a href="https://github.com/MariamAlz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.kaggle.com/mariammalzaabi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<a href="https://www.linkedin.com/in/mariam-mk-alzaabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.researchgate.net/profile/Mariam-Alzaabi-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
+<a href="https://stackoverflow.com/users/16570814/Mariam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    
+    
+ ## GitHub Statistics 📊
+ ![Profile views](https://gpvc.arturio.dev/MariamAlz) <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" />
+    
+ ![Mariam Alzaabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamAlz&theme=omni&show_icons=true)
+        
+ ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+    
+ ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+   
+ ## Support Me! ☕
+    
+ <p><a href="https://www.buymeacoffee.com/mariamalzaabi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamalzaabi" /></a></p><br><br>
+
+
 <!---
 MariamAlz/MariamAlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
