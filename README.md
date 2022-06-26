@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Mariam Alzaabi.</h2>
 
-<h2 align="center">👩 About Me</h2>
+<h2 align="center">❤️ About Me</h2>
 
 - 🙋‍♀️ A passionate Computer Engineer 💻 from the UAE.
 - 👩‍💻 Currently, working as a Graduate Student / Teaching Assistant.
