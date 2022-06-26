@@ -1,4 +1,6 @@
-<h2 align="center">👋 Hello! I'm Mariam Alzaabi.</h2>
+<h1 align="center">👋 Hello! I'm Mariam Alzaabi.</h2>
+
+<h2 align="center">👩 About Me</h2>
 
 - 🙋‍♀️ A passionate Computer Engineer 💻 from the UAE.
 - 👩‍💻 Currently, working as a Graduate Student / Teaching Assistant.
@@ -8,7 +10,7 @@
 - 🌱 Learning Python, Math & Philosophy.
 - 📧 Send me an [email](mailto:mariam.mk.alzaabi@gmail.com) if you want to contact me!
 
-<h2 align="center">Software Tools 🛠️</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <details>
     <summary><b>☁ Cloud</b></summary><br/>
@@ -95,11 +97,11 @@
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </details>
 
-<h2 align="center">Follow me 🌐</h2>
+<h2 align="center">🤝🏻 Connect with Me</h2>
 
 <p align="center"><a href="https://github.com/MariamAlz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://www.kaggle.com/mariammalzaabi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> <a href="https://www.linkedin.com/in/mariam-mk-alzaabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://www.researchgate.net/profile/Mariam-Alzaabi-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> <a href="https://stackoverflow.com/users/16570814/Mariam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></p>
     
-<h2 align="center">GitHub Statistics 📊</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
     
 <p align="center"><a href="https://github.com/MariamAlz"><img src="https://gpvc.arturio.dev/MariamAlz" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" /></p>
     
@@ -113,7 +115,7 @@
     
 </div>
 
-<h2 align="center">Support Me! ☕</h2>
+<h2 align="center">☕ Support Me!</h2>
     
  <p align="center"><a href="https://www.buymeacoffee.com/mariamalzaabi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamalzaabi" /></a></p><br><br>
 
