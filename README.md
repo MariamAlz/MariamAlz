@@ -1,14 +1,14 @@
-# Hi 👋
+<h2 align="center">👋 Hello! I'm Mariam Alzaabi.</h2>
 
-#### 🙋‍♀️ I'm Mariam Alzaabi, a Computer Engineer 💻 from the UAE.
-#### 👩‍💻 Currently, working as a Graduate Student / Teaching Assistant.
-#### 🏫 Studying MSc. Computer Science at Khalifa University.
-#### 👩‍🎓 Graduated with a BSc. in Computer Engineering.
-#### 🤔 Interested in Data Science. Recent focus on NLP and Computer Vision.
-#### 🌱 Learning Python, Math & Philosophy.
-#### 📧 Send me an [email](mailto:mariam.mk.alzaabi@gmail.com) if you want to contact me!
+- 🙋‍♀️ A passionate Computer Engineer 💻 from the UAE.
+- 👩‍💻 Currently, working as a Graduate Student / Teaching Assistant.
+- 🏫 Studying MSc. Computer Science at Khalifa University.
+- 👩‍🎓 Graduated with a BSc. in Computer Engineering.
+- 🤔 Interested in Data Science. Recent focus on NLP and Computer Vision.
+- 🌱 Learning Python, Math & Philosophy.
+- 📧 Send me an [email](mailto:mariam.mk.alzaabi@gmail.com) if you want to contact me!
 
-## Software Tools 🛠️
+<h2 align="center">Software Tools 🛠️</h2>
 
 <details>
     <summary><b>☁ Cloud</b></summary><br/>
@@ -95,29 +95,27 @@
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </details>
 
-## Follow me 🌐
-<a href="https://github.com/MariamAlz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<a href="https://www.kaggle.com/mariammalzaabi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-<a href="https://www.linkedin.com/in/mariam-mk-alzaabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.researchgate.net/profile/Mariam-Alzaabi-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-<a href="https://stackoverflow.com/users/16570814/Mariam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<h2 align="center">Follow me 🌐</h2>
+
+<p align="center"><a href="https://github.com/MariamAlz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://www.kaggle.com/mariammalzaabi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> <a href="https://www.linkedin.com/in/mariam-mk-alzaabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://www.researchgate.net/profile/Mariam-Alzaabi-2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> <a href="https://stackoverflow.com/users/16570814/Mariam"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></p>
     
+<h2 align="center">GitHub Statistics 📊</h2>
     
- ## GitHub Statistics 📊
- ![Profile views](https://gpvc.arturio.dev/MariamAlz) <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" />
+<p align="center"><a href="https://github.com/MariamAlz"><img src="https://gpvc.arturio.dev/MariamAlz" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" /></p>
+    
+<div align="center">
     
  ![Mariam Alzaabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamAlz&theme=omni&show_icons=true)
-        
+    
  ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/overview.svg#gh-light-mode-only)
     
  ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-
-   
- ## Support Me! ☕
     
- <p><a href="https://www.buymeacoffee.com/mariamalzaabi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamalzaabi" /></a></p><br><br>
+</div>
 
+<h2 align="center">Support Me! ☕</h2>
+    
+ <p align="center"><a href="https://www.buymeacoffee.com/mariamalzaabi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamalzaabi" /></a></p><br><br>
 
 <!---
 MariamAlz/MariamAlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
