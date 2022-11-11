@@ -115,10 +115,6 @@
     
 </div>
 
-<h2 align="center">☕ Support Me!</h2>
-    
- <p align="center"><a href="https://www.buymeacoffee.com/mariamalzaabi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariamalzaabi" /></a></p><br><br>
-
 <!---
 MariamAlz/MariamAlz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
