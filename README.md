@@ -103,16 +103,12 @@
     
 <h2 align="center">📊 GitHub Analytics</h2>
     
-<p align="center"><a href="https://github.com/MariamAlz"><img src="https://gpvc.arturio.dev/MariamAlz" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" /></p>
+<p align="center"><a href="https://github.com/MariamAlz"><a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/followers/MariamAlz?style=social" /> <a href="https://github.com/MariamAlz"><img src="https://img.shields.io/github/stars/MariamAlz?style=social" /></p>
     
 <div align="center">
     
  ![Mariam Alzaabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamAlz&theme=omni&show_icons=true)
-    
- ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-    
- ![](https://raw.githubusercontent.com/MariamAlz/github-stats/master/generated/languages.svg#gh-light-mode-only)
-    
+        
 </div>
 
 <!---
